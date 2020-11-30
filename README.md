@@ -83,5 +83,5 @@ excalibur initdb
 excalibur webserver
 
 # Open on web browser
-echo -e '[INFO]\thttp://127.0.0.1:3000'
+echo -e '[INFO]\thttp://127.0.0.1:5000'
 ```
